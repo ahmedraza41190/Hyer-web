@@ -8,6 +8,7 @@ body {
 
 .c-p {
     display: flex;
+    flex-direction: column;
 }
 
 
@@ -138,5 +139,78 @@ body {
     color: grey;
     font-size: 1.4vw;
 
+}
+
+
+
+.f-1 {
+    background-color: black;
+    
+    width: 100%;
+
+}
+
+.f-1 svg {
+    width: 10%;
+    margin: 4%;
+}
+
+.f-2 {
+    background-color: black;
+    padding: 3%;
+    display: flex;
+    
+    
+}
+.f-02 {
+    width: auto;
+    height: 100%;
+}
+.ff-2 {
+    width: 100%;
+}
+
+.Footer-1 {
+    color: #fff;
+    margin: 1%; 
+    font-size: 1.4vw;
+}
+
+.Footer-2 {
+    width: 2%;
+    padding: 1%;
+    margin: 1%;
+    background-color: #fff;
+    border-radius: 50%;
+
+}
+
+.Footer-3 {
+    width: 2%;
+    padding: 1%;
+    margin: 1%;
+    background-color: #fff;
+    border-radius: 50%;
+}
+
+.Footer-4 {
+    width: 2%;
+    padding: 1%;
+    margin: 1%;
+    background-color: #fff;
+    border-radius: 50%;
+}
+
+.ff-3 {
+    position: relative;
+    width: 54%;
+    height: auto;
+    background-color: #fff;
+    left: -10%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.rrr {
+    margin: 2%;
 }
 
